@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+    list-style-type: none;
+}
+
+.hero{
+    background-color: #776B5D;
+}
+
+nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav ul{
+    display: flex;
+}
+
+li{
+    padding: 2vh 8vh 2vh 8vh
+}
+
+.banner{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    background-color: #B0A695;
+    height: 60vh;
+}
