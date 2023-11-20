@@ -1,6 +1,16 @@
-p{
+/* TEXT BLACK */
+
+.text-w{
    color: white;
    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+/* TEXT BLACK */
+
+.text-b{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 18px;
 }
 
@@ -15,5 +25,13 @@ a{
 h2{
     color: white;
     font-size: 42px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* EVENTS TITLE */
+
+h3{
+    color: black;
+    font-size: 2.5vh;
     font-family: Arial, Helvetica, sans-serif;
 }
