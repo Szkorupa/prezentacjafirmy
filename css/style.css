@@ -1,4 +1,4 @@
-*{
+* {
     padding: 0;
     margin: 0;
     border: 0;
@@ -6,13 +6,11 @@
 }
 
 .hero{
-    background-color: #776B5D;
+    background-color: #404258;
 }
 
 nav{
     display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 nav ul{
@@ -20,13 +18,13 @@ nav ul{
 }
 
 li{
-    padding: 2vh 8vh 2vh 8vh
+    display: block;
+    padding: 20px 60px 20px 60px;
 }
 
 .banner{
     align-items: center;
     text-align: center;
     justify-content: center;
-    background-color: #B0A695;
     height: 60vh;
 }
