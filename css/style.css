@@ -15,6 +15,7 @@ nav{
 
 nav ul{
     display: flex;
+    align-items: center;
 }
 
 li{
@@ -22,7 +23,13 @@ li{
     padding: 20px 60px 20px 60px;
 }
 
+
+#navbar-image{
+    max-width: 10vh
+}
+
 .banner{
+    display: flex;
     align-items: center;
     text-align: center;
     justify-content: center;
@@ -30,6 +37,5 @@ li{
 }
 
 .b-description{
-    padding-top: 15%;
-    line-height: 50px;
+    align-items: center;
 }
