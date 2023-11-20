@@ -70,3 +70,9 @@ li{
     max-width: 1000px;
     width: 80%;
 }
+
+.Title{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
