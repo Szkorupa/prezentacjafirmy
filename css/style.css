@@ -6,7 +6,7 @@
 }
 
 .hero{
-    background-color: #404258;
+    background-color: white;
 }
 
 nav{
@@ -26,5 +26,10 @@ li{
     align-items: center;
     text-align: center;
     justify-content: center;
-    height: 60vh;
+    height: 80vh;
+}
+
+.b-description{
+    padding-top: 15%;
+    line-height: 50px;
 }
