@@ -3,3 +3,9 @@
     background-image: linear-gradient(rgba(0, 0, 0, 0.919), rgba(0, 0, 0, 0.816)), url('gallery/banner-background.jpg');
     background-position: center;
 }
+.form{
+    background-image: url('gallery/newsletter.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

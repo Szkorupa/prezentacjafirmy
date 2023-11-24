@@ -47,32 +47,76 @@ li{
     width: 1920px;
 }
 
-.container{
+.events-title{
+    display: flex;
+    justify-content: center;
+}
+
+.events-title h2{
+    padding-top: 5vh;
+}
+
+.row{
     display: flex;
     align-items: center;
     text-align: center;
     justify-content: center;
-    height: 80vh;
+    height: 70vh;
 }
 
-.Row{
-    display: flex;
-    align-items: center;
-    text-align: center;
-    justify-content: center;
-}
-
-.Col{
+.col{
     width: 33.3%;
 }
 
-.Col img{
+.col img{
     max-width: 1000px;
     width: 80%;
 }
 
-.Title{
+.title{
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+
+/* FORM */
+
+.form{
+    max-width: 1920px;
+    height: 30rem;
+    background-image: url("back");
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.form_wrapper{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+input{
+    background: rgba(0, 0, 0, 0);
+    display: block;
+    color: white;
+    border-bottom: white 2px solid;
+    text-align: center;
+    margin: 1rem;
+    padding: .5rem 0rem .5rem 0rem;
+    height: 2rem;
+    width: 30rem;
+}
+
+.input2{
+    padding: .5rem 0 7rem 0;
+}
+
+.block{
+    display: block;
+    padding: 1rem;
+}
+
+/* Maps */
+
