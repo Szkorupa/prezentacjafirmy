@@ -9,3 +9,10 @@
     background-position: center;
     background-size: cover;
 }
+
+.donate{
+    background-image: url('gallery2/background2.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}

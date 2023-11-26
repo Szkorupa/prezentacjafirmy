@@ -2,8 +2,6 @@ a{
     text-decoration: none;
 }
 
-/* TEXT WHITE */
-
 .text-w{
    color: white;
    font-family: Arial, Helvetica, sans-serif;
@@ -16,8 +14,6 @@ a{
     font-weight: 600;
     font-family: Arial, Helvetica, sans-serif;
 }
-
-/* TEXT BLACK */
 
 .text-b{
     color: black;
@@ -39,13 +35,17 @@ h2{
     font-family: Arial, Helvetica, sans-serif;
 }
 
+.h2text{
+    font-size: 50px;
+    padding-top: 8rem;
+}
+
 .h2text-b{
     color: black;
     font-size: 50px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
-/* EVENTS TITLE */
 
 h3{
     color: black;
@@ -61,4 +61,25 @@ h3{
 
 span{
     color: red;
+}
+
+h4{
+    color: black;
+    font-size: 1.4rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p{
+    color: black;
+    font-size: 1rem;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 1rem;
+}
+.donate-nav ul li a{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+    padding: .7rem;
+    text-decoration: underline;
+    border: 2px white solid;
 }

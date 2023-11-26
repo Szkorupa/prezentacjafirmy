@@ -186,3 +186,6 @@ input{
     padding: 2rem 0 2rem 0;
     border-top: 2px white solid;
 }
+.col3 p{
+    padding-top: 0;
+}
