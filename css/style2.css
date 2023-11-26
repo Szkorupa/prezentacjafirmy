@@ -5,6 +5,10 @@
     list-style-type: none;
 }
 
+*::-webkit-scrollbar{
+    display: none;
+}
+
 .hero{
     background-color: white;
 }

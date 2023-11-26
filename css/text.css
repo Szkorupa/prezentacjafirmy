@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ephesis&display=swap');
+
 a{
     text-decoration: none;
 }
@@ -82,4 +84,20 @@ p{
     padding: .7rem;
     text-decoration: underline;
     border: 2px white solid;
+}
+.hero2-wrapper li a{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.itext-b{
+    color: black;
+    font-size: 80px;
+    font-family: 'Ephesis', cursive;
+}
+
+.htext-b{
+    font-size: 32px;
 }
