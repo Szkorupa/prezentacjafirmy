@@ -28,3 +28,24 @@ li{
 #navbar-image{
     max-width: 10vh
 }
+
+/* Hero */
+.hero{
+    background-color: black;
+    max-width: 1920px;
+    height: 100%;
+}
+.hero_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.hero_left, .hero_right{
+    padding: 10rem;
+    width: 50%;
+}
+.hero_left img{
+    width: 600px;
+}
