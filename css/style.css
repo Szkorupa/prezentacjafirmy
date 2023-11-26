@@ -127,23 +127,26 @@ input{
 .maps{
     display: flex;
     max-width: 1920px;
-    border-top: white 5px solid;
-    border-bottom: white 5px solid;
 }
 
 /* Gallery */
 
-.gallery {
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    align-items: center;
+.gallery{
     max-width: 1920px;
+    border-bottom: 5px black solid;
+    border-top: 5px black solid;
+    padding: 2rem;
+}
+.gallery h2{
+    text-align: center;
+    padding: 2rem;
 }
 .gallery_wrapper{
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
 }
 .image2{
     display: block;
