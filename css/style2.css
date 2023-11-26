@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    list-style-type: none;
+}
+
+.hero{
+    background-color: white;
+}
+
+nav{
+    display: flex;
+    border-bottom: 2px black solid;
+}
+
+nav ul{
+    display: flex;
+    align-items: center;
+}
+
+li{
+    display: block;
+    padding: 20px 60px 20px 60px;
+}
+
+
+#navbar-image{
+    max-width: 10vh
+}

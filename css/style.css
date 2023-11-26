@@ -161,3 +161,28 @@ input{
     width: 250px;
     height: 250px;
 }
+
+/* Footer */
+.footer_wrapper{
+    display: flex;
+    height: 15rem;
+    background-color: black;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.col2{
+    display: block;
+    width: 33.3%;
+}
+.col2 > a > p{
+    padding-top: 10px;
+}
+.col3{
+    background-color: black;
+    width: 100%;
+    text-align: center;
+    padding: 2rem 0 2rem 0;
+    border-top: 2px white solid;
+}
