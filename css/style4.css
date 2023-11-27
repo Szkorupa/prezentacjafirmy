@@ -47,24 +47,24 @@ li{
 }
 .col5{
     display: block;
-    background-color: black;
-    margin: 4rem 4rem;
-    width: 400px;
-    height: 600px;
-    border: 4px black solid;
+    background-color: #776B5D;
+    margin: 8rem 4rem;
+    width: 450px;
+    height: 650px;
+    border: 3px black solid;
     border-radius: 25px;
-    transition-duration: .5s;
+    transition-duration: .3s;
 }
 .col5:hover{
     margin-top: 0rem;
-    transition-duration: .5s;
-    border: 4px red solid;
+    transition-duration: .3s;
+    border: 3px black solid;
 }
 .col5 img{
     margin-top: 2rem;
     width: 80%;
     border-radius: 25px;
-    border: 2px white solid;
+    border: 3px black solid;
 }
 .col5 h4{
     padding-top: 1rem;
@@ -94,7 +94,7 @@ li{
     padding-top: 10px;
 }
 .col3{
-    background-color: saddlebrown;
+    background-color: black;
     width: 100%;
     text-align: center;
     padding: 2rem 0 2rem 0;
