@@ -46,15 +46,17 @@ li{
     align-items: center;
 }
 .hero_left{
-    margin: 4rem 4rem;
+    margin: 4rem 2rem;
     display: block;
     width: 100%;
 }
 .hero_right{
     display: block;
+    margin: 4rem 1rem;
 }
 .hero_left img{
-    width: 100%;
+    width: 550px;
+    height: 330px;
 }
 
 #blue{
