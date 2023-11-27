@@ -102,19 +102,16 @@ hr {
     max-width: 1920px;
     width: 1920px;
     justify-content: center;
-    align-items: center;
     padding: 4rem;
 }
 .row-2{
     width: 100%;
     display: flex;
     justify-content: center;
-    align-items: center;
 }
 .col5{
     display: block;
     justify-content: center;
-    align-items: center;
     width: 30%;
 }
 
